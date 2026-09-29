@@ -1,0 +1,2 @@
+# Digitaljourno
+Stuff for class
